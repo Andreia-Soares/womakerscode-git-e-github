@@ -11,6 +11,11 @@ Nesta aula estamos aprendendo comandos bem legais e úteis.
 
 **adiciona todos os arquivos para a esteira de commit**
 
-### git add [caminho do arquivo
+### git add [caminho do arquivo]
 
-**adicionar um arquivo em especifico**]
+**adicionar um arquivo em especifico**
+
+
+
+### git commit
+
